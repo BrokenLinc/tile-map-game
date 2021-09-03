@@ -11,7 +11,7 @@
     "@fortawesome/react-fontawesome": "^0.1.9",
     "emotion-theming": "^10.0.27",
     "firebase": "^7.14.2",
-    "immer": "^6.0.5",
+    "immer": "^9.0.6",
     "lodash": "^4.17.15",
     "now": "^18.0.0",
     "panzoom": "^9.2.4",
